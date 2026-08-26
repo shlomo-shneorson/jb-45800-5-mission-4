@@ -9,9 +9,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Project specific heavy data
-dataset/
-model.pth
+
 
 # IDE and OS specific files
 .vscode/
